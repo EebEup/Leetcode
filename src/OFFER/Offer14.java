@@ -1,5 +1,8 @@
 package OFFER;
 
+import java.util.HashMap;
+import java.util.HashSet;
+
 public class Offer14 {
 
     public int cuttingRope(int n) {
@@ -22,6 +25,6 @@ public class Offer14 {
         }
         return dp[n];
     }
-
+    HashSet<Integer> res =new HashSet<>();
 
 }
