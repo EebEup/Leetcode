@@ -1,4 +1,4 @@
-import java.util.Collection;
+package solutions;
 
 public class Solution101 {
     public boolean isSymmetric(TreeNode root) {

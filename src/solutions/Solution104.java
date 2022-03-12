@@ -1,3 +1,5 @@
+package solutions;
+
 public class Solution104 {
     int ans=1;
     public int maxDepth(TreeNode root) {

@@ -1,3 +1,5 @@
+package solutions;
+
 import java.util.Deque;
 import java.util.LinkedList;
 
@@ -37,7 +39,7 @@ public class Solution105 {
     }
 
 
-//    void build(TreeNode t,int[] pre,int[] in){
+//    void build(solutions.TreeNode t,int[] pre,int[] in){
 //        t.val=pre[0];
 //
 //       int index=0;
@@ -52,7 +54,7 @@ public class Solution105 {
 //        }
 //        int[] right
 //
-//        build(new TreeNode(),);//leftTree
+//        build(new solutions.TreeNode(),);//leftTree
 //
 //
 //

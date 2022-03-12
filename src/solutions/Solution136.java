@@ -1,3 +1,5 @@
+package solutions;
+
 public class Solution136 {
         public int singleNumber(int[] nums) {
 

@@ -1,4 +1,5 @@
-import java.util.ArrayList;
+package solutions;
+
 import java.util.HashSet;
 
 class ListNode {

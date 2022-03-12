@@ -1,3 +1,5 @@
+package solutions;
+
 import java.util.*;
 
 public class Solution215 {
@@ -47,6 +49,7 @@ public class Solution215 {
         while(scanner.hasNextInt()){
          lis.add(scanner.nextInt());
         }
+
 
 
         int[] ints = new int[lis.size() - 1];

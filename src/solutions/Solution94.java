@@ -1,6 +1,8 @@
+package solutions;
+
 import java.util.List;
 import java.util.ArrayList;
-import java.util.List;
+
 class TreeNode {
       int val;
       TreeNode left;

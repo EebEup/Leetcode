@@ -1,3 +1,5 @@
+package solutions;
+
 public class Solution114 {
     public void flatten(TreeNode root) {
 

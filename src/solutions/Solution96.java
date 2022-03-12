@@ -1,3 +1,5 @@
+package solutions;
+
 public class Solution96 {
     public int numTrees(int n) {
         int[] dp =new int[n+1];

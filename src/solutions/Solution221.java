@@ -1,3 +1,5 @@
+package solutions;
+
 import com.sun.org.apache.xpath.internal.operations.String;
 
 import java.util.Scanner;

@@ -1,6 +1,4 @@
-import java.util.Collection;
-import java.util.Collections;
-import java.util.List;
+package solutions;
 
 public class Solution148 {
     public ListNode sortList(ListNode head) {

@@ -1,3 +1,5 @@
+package solutions;
+
 public class Solution200 {
 
     public int numIslands(char[][] grid) {

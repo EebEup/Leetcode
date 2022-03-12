@@ -1,3 +1,5 @@
+package solutions;
+
 public class Solution122 {
     public int maxProfit(int[] prices) {
         int profit=0;

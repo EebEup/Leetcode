@@ -1,3 +1,5 @@
+package solutions;
+
 public class Solution152 {
 
     class Solution {

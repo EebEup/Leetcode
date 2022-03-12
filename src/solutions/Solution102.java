@@ -1,3 +1,5 @@
+package solutions;
+
 import java.util.*;
 
 public class Solution102 {

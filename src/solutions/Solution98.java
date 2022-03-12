@@ -1,3 +1,5 @@
+package solutions;
+
 public class Solution98 {
         public boolean isValidBST(TreeNode root) {
                 return isValidBST(root, Long.MIN_VALUE, Long.MAX_VALUE);
