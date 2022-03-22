@@ -1,2 +1,3 @@
 # Leetcode
-Solutions
+##Solutions for leetcode
+From a new programmer
